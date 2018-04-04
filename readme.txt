@@ -1,6 +1,6 @@
 Git is a  dietribu ted version control system
 
-git is a free software  distributed  under the gpl 
+git is a a free software  distributed  under the gpl 
 
 git  has a mutable index  called stage
 
